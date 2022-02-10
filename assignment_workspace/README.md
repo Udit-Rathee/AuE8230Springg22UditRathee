@@ -31,7 +31,8 @@ rosrun turtlesim turtlesim_node
 
 TERMINAL 3:
 source devel/setup.bash
-rosrun assignment2_turtlesim <file name>
+
+rosrun assignment2_turtlesim /script name/
 
 
 
