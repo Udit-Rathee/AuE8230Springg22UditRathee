@@ -1,0 +1,2 @@
+assignment2_turtlesim
+-DCATKIN_DEVEL_PREFIX=/home/udit/AuE8230Spring22_UditRathee/assignment_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/udit/AuE8230Spring22_UditRathee/assignment_workspace/install -G Unix Makefiles
