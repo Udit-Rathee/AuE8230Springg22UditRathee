@@ -4,7 +4,9 @@ This repositry contains solution to Assignment 2 where turtle bot simulations we
 Heirarchy here: 
 
 assignment_workspace: the main catkin workspace
+
 assignment_workspace/src/assignment2_turtlesim: the package build in the catkin workspace 
+
 assignment_workspace/src/assignment2_turtlesim/src: Contains the following python scripts:
 
 1. circle.py 
